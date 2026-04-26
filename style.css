@@ -211,3 +211,14 @@ button:active {
         display: none;
     }
 }
+
+.copyright {
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    letter-spacing: 2px;
+    margin-top: auto;
+    padding-top: 20px;
+    opacity: 0.5;
+    text-transform: uppercase;
+}
